@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import products from './data'
 import Product from './Product'
 

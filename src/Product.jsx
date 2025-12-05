@@ -1,4 +1,4 @@
-const Product = (product) => {
+const Product = ({product}) => {
   return (
     <section>
       <h2>Product</h2>
